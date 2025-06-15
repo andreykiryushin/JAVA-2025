@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animals>
+    <animal id="1">
+        <name>Барсик</name>
+        <type>Кот</type>
+        <age>3</age>
+        <color>Рыжий</color>
+    </animal>
+    <animal id="2">
+        <name>Шарик</name>
+        <type>Собака</type>
+        <age>5</age>
+        <color>Чёрный</color>
+    </animal>
+</Animals>
